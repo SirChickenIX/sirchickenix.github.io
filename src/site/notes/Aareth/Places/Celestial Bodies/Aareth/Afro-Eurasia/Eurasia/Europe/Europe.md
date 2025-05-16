@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/aareth/places/celestial-bodies/aareth/afro-eurasia/eurasia/europe/europe/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/aareth/places/celestial-bodies/aareth/afro-eurasia/eurasia/europe/europe/"}
 ---
-
 
 > [!infobox]+
 > # Europe
