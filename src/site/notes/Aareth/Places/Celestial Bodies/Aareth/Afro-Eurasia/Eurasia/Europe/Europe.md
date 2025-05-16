@@ -4,7 +4,7 @@
 
 
 > [!infobox]+
-> # Eurasia
+> # Europe
 > ![earth.jpg|250](/img/user/media/earth.jpg)
 > ###### Information
 > | Stat | Value |
@@ -22,3 +22,4 @@
 | England     | Olor                      | London     | English (Dwarvish) | Dwarves             |                         |
 
 # History
+Europe has a long history of things happening
