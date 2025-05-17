@@ -18,7 +18,7 @@
 Aareth has two Australias. Also, the Roman Catholic Church recently schismed and became the Roman Catholic Church of Rome and the Roman Catholic Church of Madagascar.
 
 # Geography
-Like earth but with two Australias. Scholars divide the world into four supercontinents: [[Aareth/Places/Celestial Bodies/Aareth/Afro-Eurasia/Afro-Eurasia\|Afro-Eurasia]], The Americas, Oceania, and Antarctica. Within [[Aareth/Places/Celestial Bodies/Aareth/Afro-Eurasia/Afro-Eurasia\|Afro-Eurasia]] are the continents of Africa and Eurasia, within The Americas are North America and South America, and withing Oceania are West Australia and East Australia. Antarctica is not divided by mainstream academia because it is largely uninhabited and unexplored. These supercontinent divisions are mostly geographic, and the main cultural divisions are between continents.
+Like earth but with two Australias. Scholars divide the world into four supercontinents: [[Aareth/Places/Celestial Bodies/Aareth/Afro-Eurasia/Afro-Eurasia\|Afro-Eurasia]], The Americas, Oceania, and Antarctica. Within [[Aareth/Places/Celestial Bodies/Aareth/Afro-Eurasia/Afro-Eurasia\|Afro-Eurasia]] are the continents of Africa and [[Aareth/Places/Celestial Bodies/Aareth/Afro-Eurasia/Eurasia/Eurasia\|Eurasia]], within The Americas are North America and South America, and withing Oceania are West Australia and East Australia. Antarctica is not divided by mainstream academia because it is largely uninhabited and unexplored. These supercontinent divisions are mostly geographic, and the main cultural divisions are between continents.
 
 # History
 ```calendarium
