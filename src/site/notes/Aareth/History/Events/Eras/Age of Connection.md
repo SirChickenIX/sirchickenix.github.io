@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aareth/history/events/eras/age-of-connection/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/aareth/history/events/eras/age-of-connection/"}
 ---
 
 > [!infobox]+
