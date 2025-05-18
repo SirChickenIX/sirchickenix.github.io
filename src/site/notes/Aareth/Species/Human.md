@@ -18,4 +18,4 @@
 **Humans** can be found in any corner of the world, but are the majority race nowhere. Humans were the only species on earth at one point (the age of humanity) but that era passed thousands of years ago when the first dwarves and elves were created, followed by the rest of the races in an age known as the dawning. Humans as a species are known for being skilled in a wide range of crafts, trades, and professions, but individual humans tend to specialize in one area.
 
 # Notable Members of Species
-[[John\|John]]
+[[Aareth/People/Other/John\|John]]
