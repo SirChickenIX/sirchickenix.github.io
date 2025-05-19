@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aareth/people/other/john/"}
+{"dg-publish":true,"permalink":"/aareth/people/other/john/","tags":["gardenEntry"]}
 ---
 
 > [!infobox]+
