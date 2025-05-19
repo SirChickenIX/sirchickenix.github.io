@@ -12,5 +12,9 @@
 > | **Gender** | Male |
 > | **Age** | IDK |
 > | **Height** | IDK |
+>  ###### Organizations
+> | Organization | Role |
+> | ---- | ---- |
+> | **Bandits** | Member |
 # John
 **John** is a guy who tried to be a bandit but wasn't very good at it.

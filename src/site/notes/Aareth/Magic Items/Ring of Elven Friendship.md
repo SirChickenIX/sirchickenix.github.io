@@ -28,3 +28,4 @@ For the purpose of spells cast using the ring, your spellcasting ability modifie
 While wearing this ring, you know the direction of the nearest major elvish city and the moon.
 ## Extra Effects
 The ring has additional properties if the bearer is attuned to and wearing a Cloak of Elvenkind, and wearing Boots of Elvenkind. 
+
