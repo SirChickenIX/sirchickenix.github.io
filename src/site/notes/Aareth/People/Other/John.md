@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aareth/people/other/john/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/aareth/people/other/john/"}
 ---
 
 > [!infobox]+
@@ -10,8 +10,9 @@
 > | ---- | ---- |
 > | **Species** | Human |
 > | **Gender** | Male |
-> | **Age** | IDK |
-> | **Height** | IDK |
+> | **Age** | Unknown |
+> | **Height** | 6'2" |
+> | **Weight** | 190 |
 >  ###### Organizations
 > | Organization | Role |
 > | ---- | ---- |
