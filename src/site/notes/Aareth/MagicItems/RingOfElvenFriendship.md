@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aareth/magic-items/ring-of-elven-friendship/","tags":["gardenEntry"],"dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/aareth/magic-items/ring-of-elven-friendship/","dg-note-properties":{}}
 ---
 
 > [!infobox]+

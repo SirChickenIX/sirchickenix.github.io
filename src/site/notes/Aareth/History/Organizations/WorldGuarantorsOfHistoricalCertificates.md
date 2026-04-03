@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aareth/history/organizations/world-guarantors-of-historical-certificates/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/aareth/history/organizations/world-guarantors-of-historical-certificates/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
 
